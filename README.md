@@ -21,7 +21,7 @@ Proporcionar las mejores herramientas de software a nuestros clientes para que s
 * *Colaboración*
 * *Respeto*
 ## Documentación
-* [Oficina de planeación de proyectos](https://docs.google.com/document/d/1QTs8yllyHA_X4_GiC6XGPCena-W5O-Zua8kV-VwBxv0/edit?usp=sharing)
+* [Oficina de planeación de proyectos](https://drive.google.com/file/d/1dYJs8lplSh-IRiErebpGAxTmzatBFW4S/view?usp=sharing)
 * [Project Charter](https://docs.google.com/document/d/1c_BWjtZiYUoQR9DpEIk6hONA1RSXt5OF/edit?usp=sharing&ouid=108866104892353720692&rtpof=true&sd=true)
 ## Minutas
 * [14 de febrero](https://docs.google.com/document/d/1NDCW1wg7lPpJtZUef994UcWxZNrRIwGQ/edit?usp=sharing&ouid=108866104892353720692&rtpof=true&sd=true)
