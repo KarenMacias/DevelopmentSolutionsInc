@@ -8,9 +8,9 @@
 * [Documentación](https://github.com/KarenMacias/DevelopmentSolutionsInc/blob/main/README.md#documentaci%C3%B3n)
 * [Minutas](https://github.com/KarenMacias/DevelopmentSolutionsInc/blob/main/README.md#minutas)
 ## Misión
-Proporcionar la mejor gestión de proyecto de software por medio de soluciones creativas con el objetivo de brindar un producto de calidad que cumpla con los requerimientos solicitados de manera eficiente.
+Proporcionar la mejor gestión de proyecto de software tomando en cuenta las estrategias de negocios por medio de soluciones creativas con el objetivo de planificar un producto de calidad que cumpla con los requerimientos solicitados de manera eficiente.
 ## Visión
-Proporcionar las mejores herramientas de software a nuestros clientes para que sus proyectos superen sus propias expectativas y tengan un impacto positivo.
+Proporcionar las mejores herramientas de planeación de software a nuestros clientes considerando las estrategias de sus negocios para que sus proyectos superen sus propias expectativas y tengan un impacto positivo.
 ## Valores
 * *Responsabilidad*
 * *Compromiso*
