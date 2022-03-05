@@ -8,7 +8,7 @@
 * [Documentación](https://github.com/KarenMacias/DevelopmentSolutionsInc/blob/main/README.md#documentaci%C3%B3n)
 * [Minutas](https://github.com/KarenMacias/DevelopmentSolutionsInc/blob/main/README.md#minutas)
 ## Misión
-Liderar los proyectos de nuestros clientes por medio de soluciones creativas con el objetivo de brindar un producto de calidad que cumpla con los requerimientos solicitados de manera eficiente.
+Proporcionar la mejor gestión de proyecto de software por medio de soluciones creativas con el objetivo de brindar un producto de calidad que cumpla con los requerimientos solicitados de manera eficiente.
 ## Visión
 Proporcionar las mejores herramientas de software a nuestros clientes para que sus proyectos superen sus propias expectativas y tengan un impacto positivo.
 ## Valores
@@ -21,10 +21,8 @@ Proporcionar las mejores herramientas de software a nuestros clientes para que s
 * *Colaboración*
 * *Respeto*
 ## Documentación
-* [Documentación completa](https://drive.google.com/drive/folders/12nPx9I1TrRJ33cQoWU3dUTufNOV_qjG1?usp=sharing).
-* [Minutas](https://drive.google.com/drive/folders/1tw0YUBnjjZ7dhdbjQAzlkAHZQ68_STKr?usp=sharing).
-* Docuemntación PMO link
-* Project Charter link
+* [Oficina de planeación de proyectos](https://docs.google.com/document/d/1QTs8yllyHA_X4_GiC6XGPCena-W5O-Zua8kV-VwBxv0/edit?usp=sharing)
+* [Project Charter](https://docs.google.com/document/d/1c_BWjtZiYUoQR9DpEIk6hONA1RSXt5OF/edit?usp=sharing&ouid=108866104892353720692&rtpof=true&sd=true)
 ## Minutas
-* Minuta 1 link
-* Minuta 2 link
+* [14 de febrero](https://docs.google.com/document/d/1NDCW1wg7lPpJtZUef994UcWxZNrRIwGQ/edit?usp=sharing&ouid=108866104892353720692&rtpof=true&sd=true)
+* [17 de febrero](https://docs.google.com/document/d/1T9CfbB3Jho-nKn0PBY1qaIpbhchG1hKx/edit?usp=sharing&ouid=108866104892353720692&rtpof=true&sd=true)
