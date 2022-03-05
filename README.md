@@ -26,3 +26,4 @@ Proporcionar las mejores herramientas de software a nuestros clientes para que s
 ## Minutas
 * [14 de febrero](https://docs.google.com/document/d/1NDCW1wg7lPpJtZUef994UcWxZNrRIwGQ/edit?usp=sharing&ouid=108866104892353720692&rtpof=true&sd=true)
 * [17 de febrero](https://docs.google.com/document/d/1T9CfbB3Jho-nKn0PBY1qaIpbhchG1hKx/edit?usp=sharing&ouid=108866104892353720692&rtpof=true&sd=true)
+* [3 de marzo](https://docs.google.com/document/d/146U75h0D-qfXU9GfZiNvIKoKVzzqzB02/edit)
