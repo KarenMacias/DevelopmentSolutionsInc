@@ -2,11 +2,11 @@
 > Oficina de planeación de proyectos.
 ![Logo](./img/logo.png)
 ## Contenido
-* [Misión]
-* [Visión]
-* [Valores]
-* [Documentación]
-* [Minutas]
+* [Misión](https://github.com/KarenMacias/DevelopmentSolutionsInc/blob/main/README.md#misi%C3%B3n)
+* [Visión](https://github.com/KarenMacias/DevelopmentSolutionsInc/blob/main/README.md#visi%C3%B3n)
+* [Valores](https://github.com/KarenMacias/DevelopmentSolutionsInc/blob/main/README.md#valores)
+* [Documentación](https://github.com/KarenMacias/DevelopmentSolutionsInc/blob/main/README.md#documentaci%C3%B3n)
+* [Minutas](https://github.com/KarenMacias/DevelopmentSolutionsInc/blob/main/README.md#minutas)
 ## Misión
 Liderar los proyectos de nuestros clientes por medio de soluciones creativas con el objetivo de brindar un producto de calidad que cumpla con los requerimientos solicitados de manera eficiente.
 ## Visión
