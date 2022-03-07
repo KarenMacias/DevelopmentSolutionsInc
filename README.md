@@ -6,6 +6,7 @@
 * [Visión](https://github.com/KarenMacias/DevelopmentSolutionsInc/blob/main/README.md#visi%C3%B3n)
 * [Valores](https://github.com/KarenMacias/DevelopmentSolutionsInc/blob/main/README.md#valores)
 * [Documentación](https://github.com/KarenMacias/DevelopmentSolutionsInc/blob/main/README.md#documentaci%C3%B3n)
+* [WBS](https://github.com/KarenMacias/DevelopmentSolutionsInc/blob/main/README.md#WBS)
 * [Minutas](https://github.com/KarenMacias/DevelopmentSolutionsInc/blob/main/README.md#minutas)
 ## Misión
 Proporcionar la mejor gestión de proyecto de software tomando en cuenta las estrategias de negocios por medio de soluciones creativas con el objetivo de planificar un producto de calidad que cumpla con los requerimientos solicitados de manera eficiente.
